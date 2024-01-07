@@ -1,5 +1,3 @@
-{tabbed: Core, ED + Tech, Sample Decklists}
-
 ## Introduction
 
 The Dreaming Nemlaria archetype wants to clear out its extra deck face down, then summon Dreaming Nemlaria to wipe the opponent's board and GY, then finally finish the game with your {emph}(beat sticks). Think of the deck as sleeping on 15 layers of pillows, you need to remove the pillows to wake up Nemleria! While by no means a competitively viable deck, it is fun to **whip it out** during a casual game. Today, I will guide you on how to win with the deck, and how to be a master at *RELEASING THE BEAST!!!*
@@ -7,6 +5,8 @@ The Dreaming Nemlaria archetype wants to clear out its extra deck face down, the
 The deck debuted in the Indomitable Pride
 
 (Credits: [Nemleria Discord](https://discord.gg/pRa2Hw8efb), {@Creepinator45:63fee76b5a727c5eff522fd4}, {@Walrus:659a0651ec8596838e327650})
+
+{tabbed: Core, ED + Tech, Sample Decklists}
 
 ## Core Cards: 
 
@@ -16,7 +16,7 @@ The deck debuted in the Indomitable Pride
 
 ###### Dreaming Nemlaira - {emph}(3x)
 
-The goal is to get her face up in the extra deck and to **NOT** banish her face down. You achieve this most of the time with her pendulum effect. Once you can summon her and use her {emph}(board wipe), you can {emph}(recover) your extra deck monsters to go into {Linkuriboh} and return her to the extra deck, and Rank 10s, such as {Superdreadnought Rail Cannon Gustav Max}. This is also why you do not want to play clutter in the extra deck since Nemlaria returning cards is crucial in the deck.
+The goal is to get her face up in the extra deck and to **NOT** banish her face down. You achieve this most of the time with her pendulum effect. Once you can summon her and use her {emph}(board wipe), you can {emph}(recover) your extra deck monsters to go into {Linkuriboh} and return her to the extra deck, and Rank 10s, such as {Superdreadnought Rail Cannon Gustav Max}. This is also why you do not want to play clutter in the extra deck since Nemlaria returning cards is crucial in the deck. She also has a restriction that prevents you from summoning her the same turn you put her in the extra deck with her affect, though putting her in the extra deck with other card affects can bypass this restriction.
 
 {2coldiv}
 
@@ -32,9 +32,9 @@ The card is a generic {emph}(searcher) that will search for any Nemleria monster
 
 {cards}(Dream Tower of Princess Nemleria)
 
-###### Dream Tower of Princess Nemleria - {emph}(1-2x)
+###### Dream Tower of Princess Nemleria - {emph}(2x)
 
-In my personal experience, I run 2 of the card, but if you run 1 it will not be too huge. The card is huge since it works towards the goal of clearing the extra deck and {emph}(searches) *2* level 10s from the deck.  Most of the time, you will search Reveil and Couette. 
+Running 2 of this card is pretty standard. The card is huge since it works towards the goal of clearing the extra deck and {emph}(searches) *2* level 10s from the deck.  Most of the time, you will search Reveil and Couette. It also protects your Nemleria monsters from destruction by battle or card affect.
 
 {2coldiv}
 
@@ -42,7 +42,7 @@ In my personal experience, I run 2 of the card, but if you run 1 it will not be 
 
 ###### Nemleria Dream Devourer - Reveil - {emph}(2-3x)
 
-Every rank 10 has a job related to the extra deck in some way. Reveil's job is to thin out the extra deck. It {emph}(banishes) 3 cards from the extra deck and can be summoned from the GY once it is destroyed or {emph}(detached) as XYZ material. It is well advised to go into this card ASAP. Reveil can also search for a trap, at the cost of discarding a level 10. 
+Every level 10 has a job related to the extra deck in some way. Reveil's job is to thin out the extra deck. It {emph}(banishes) 3 cards from the extra deck and can be summoned from the GY once it is destroyed or {emph}(detached) as XYZ material. It is well advised to go into this card ASAP. Reveil can also search for a trap, at the cost of discarding a level 10. 
 
 {2colend}
 
@@ -60,7 +60,7 @@ Couette's job is to {emph}(negate) cards that target your Nemleria monsters (but
 
 ###### Nemleria Dream Defender - Oreiller {emph}(1-2x)
 
-Oreiller's (or just call him Oreo) is to thin the extra deck while being a {emph}(beat stick). Oreo is easily the worst Nemleria monster but can work towards your cause if done properly.
+Oreiller's (or just call him Oreo) job is to thin the extra deck while being a {emph}(beat stick). Oreo is easily the worst Nemleria monster, but can be critical for getting the last extra deck card banished.
 
 {2colend}
 
@@ -70,50 +70,40 @@ Oreiller's (or just call him Oreo) is to thin the extra deck while being a {emph
 
 ###### Dreaming Reality of Nemleria, Realized {emph}(1-3x)
 
-Realized's goal is to add Dreaming Nemleria to the extra deck. This saves you the trouble of using another one of your resources to get Nemleria there. Also, you can use the {Book of Moon} like effect but do not rely on it.
+Realized's goal is to add Dreaming Nemleria to the extra deck, bypassing her turn 1 summon restriction. The {Book of Moon} effect is also useful.
 
 {2coldiv}
-
-{cards}(Nemleria Louve)
-
-###### Nemleria Louve {emph}(1x)
-
-The traps are situational, and you will use both at one point or another. Louve can {emph}(special summon) a Nemleria monster you already have or do not have. You could also summon Realized if you need Nemleria in the ED. The main purpose is to access the book of moon effect on Realized.
-
-{2colend}
-
-{2col}
 
 {cards}(Nemleria Repeter)
 
 ###### Nemleria Repeter {emph}(1-2x)
 
-You would use this card over Louve when you need the extra deck banished. Repeter's {Dark Ruler No More} like effect can give you a massive advantage, and its {emph}(recycle) effect is good.
-
-{2coldiv}
-
-{cards}(Pot of Extravagance)
-
-###### Pot of Extravagance {emph}(1x)
-
-This card clears out the extra deck in exchange for a {emph}(draw 2). 
+The traps are situational, and you will use both at one point or another.
+ Repeter's {Dark Ruler No More} like effect can give you a massive advantage, and its {emph}(recycle) effect is good.
+{cards}(Nemleria Louve)
 
 {2colend}
 
 {2col}
 
-{cards}(Pot of Prosperity)
+###### Nemleria Louve {emph}(1x)
 
-###### Pot of Prosperity {emph}(1x)
+You can use this card over Repeter if don't have the extra deck or beast monsters to support repeter's negate.
+ Louve can {emph}(special summon) a Nemleria monster. Typically this will be Realized to either put Nemleria in the ED or to use as a book of moon.
 
-This card clears out the extra deck to {emph}(excavate) 6 cards from the top of the deck and add 1. 
 {2colend}
+
+{cards}(Pot of Extravagance; Pot of Prosperity)
+
+###### Pot of Extravagance and Pot of Prosperity {emph}(1x)
+
+Both extra deck banishing pots are auto-includes for nemleria decks, giving you draw power as well as helping to empty your extra deck. Play as many copies as you can.
 
 {tabsep}
 
 ## Extra Deck
 
-The extra does not matter all too much, but you should still run the extra deck on the off chance it comes in hand.
+The extra does not matter all too much and you probably won't be summoning anything from it until turn 3 or later. However you should still run the extra deck on the off chance it comes in handy. Also, some nemleria decks can choose to run a 12 card extra deck to try to turbo out Dreaming Nemleria easier, but it's not required.
 
 {3col}
 
@@ -192,13 +182,13 @@ An obvious choice in any deck that has XYZ monsters. Zeus can take an already ad
 
 Quick note: You should run multiple copies of cards you want to use in the ED if you use {Pot of Extravagance}.
 
-To fill up the extra deck, you can run these cards. The rest of the extra deck is up to the builder. (**SIDE NOTE, YOU CAN PLAY 12 EXTRA DECK CARDS BUT IT IS NOT REQUIRED**)
+To fill up the extra deck, you can run these cards. The rest of the extra deck is up to the builder.
 
 {cards}(Knightmare Unicorn; Knightmare Phoenix; Knightmare Cerberus; Knightmare Gryphon; Accesscode Talker; Underworld Goddess of the Closed World; Dharc the Dark Charmer, Gloomy)
 
 ## Tech Cards
 
-These cards can be thrown in if you need to fill up the deck. They can enhance aspects of the deck to your advantage.
+These cards can be thrown in if you need to fill up the deck. They don't fit into every build, but can enhance aspects of the deck to your advantage.
 
 
 
@@ -208,7 +198,7 @@ These cards can be thrown in if you need to fill up the deck. They can enhance a
 
 ###### Pot of Desires {emph}(1x)
 
-The card when paired with Eater of Millions and {Gren Maju Da Eiza}, can give boosts to both monsters. Also, you can {emph}(draw 2). This card can lose Dreaming Nemleria for the entire duel, so it's a high-risk high-reward card.
+The card when paired with Eater of Millions and {Gren Maju Da Eiza}, can give boosts to both monsters, and can give Dreaming Nemleria more banishes on summon. Also, you can {emph}(draw 2). This card can lose Dreaming Nemleria for the entire duel, so it's a high-risk high-reward card.
 
 {3coldiv}
 
@@ -234,7 +224,7 @@ Lava Golem is great {emph}(removal) that does not go against the deck. You do no
 
 ###### Pendulum Treasure {emph}(2-3x)
 
-Pendulum Treasure allows you to easily add Dreaming Nemlaria to the extra deck. The card is especially powerful with {Triple Tactics Thrust}. The card is a brick, however, if you already have Dreaming Nemleria in the Extra Deck.
+Pendulum Treasure allows you to easily add Dreaming Nemlaria to the extra deck while bypassing it's turn 1 summon restriction. The card is especially powerful with {Triple Tactics Thrust}. The card is a brick, however, if you already have Dreaming Nemleria access.
 
 {2coldiv}
 
@@ -242,17 +232,15 @@ Pendulum Treasure allows you to easily add Dreaming Nemlaria to the extra deck. 
 
 ###### Eater of Millions {emph}(3x)
 
-The card can clear the entire Extra Deck with one card and get rid of bricks in your hand. The card also can clear one monster from your opponents during the Battle Phase. You could also use Eater of Millions and Nemleria on the {emph}(same turn).
+The card can clear the entire Extra Deck with one card and get rid of bricks in your hand. The card also can clear one monster from your opponents during the Battle Phase.
 
 {2colend}
 
 ### Small world:
 
-There are 2 cards to be used with Small World, {emph}(Fairy Tail - Luna) and {emph}(Delta/Gamma), and small world bridges with them searches {emph}(Dreaming Nemleria) and other cards. 
+{cards}(Small World@3; PSY-Framegear Delta@2; PSY-Framegear Gamma@2; PSY-Frame Driver; Fairy Tail - Luna@2;)
 
-{cards}(Small World@3; Maxx "C"@3; Dreaming Nemleria@3; PSY-Framegear Delta@2; PSY-Framegear Gamma@2; PSY-Frame Driver; Fairy Tail - Luna@2; Water Enchantress of the Temple)
-
-You do not need 3 Maxx c, 2 Driver, or 2 Gamma, but it is added to make the deck overall better. Driver and Gamma specifically search for Nemleria, while Luna searches for Nemleria or Water Enchantress. Only play Luna if you run Adventure Nemleria.
+Small world is useful for having more consistent Dreaming Nemleria access, or for searching for other engines or tech cards. The most common bridges are the PSY-frames as they can bridge almost any card in the deck to Dreaming Nemleria. Fairy Tail - Luna is specifically useful for bridging to either Dreaming Nemleria or Water Enchantress for the adventure engine.
 
 ## Unpopular Tech Options
 
@@ -280,13 +268,13 @@ Such a silly tech option. You use the field spell to give added effects to your 
 
 {cards}(Water Enchantress of the Temple; Rite of Aramesir@2; Wandering Gryphon Rider; Fateful Adventure; Dracoback, the Rideable Dragon)
 
-Without the use of a {emph}(Normal Summon) (Which Dreaming Nemleria does not need) you can get an Omni negate and a {emph}(bounce). You would activate Rite of Aremiser to get the token, then use Fateful Adventure to summon the Omni Negate.
+Without the use of a {emph}(Normal Summon) (Which Dreaming Nemleria does not need) you can get an Omni negate and a {emph}(bounce). You would activate Rite of Aremiser to get the token, then use Fateful Adventure to search and summon the Omni Negate.
 
 ### *Condemned Witch Engine*
 
 {cards}(Condemned Witch@2; Forbidden Droplet@2; Barrier Statue of the Heavens)
 
-With your Normal Summon, you can summon Condemned Witch to add Forbidden Droplet. This gives you a {emph}(negate) that gets rid of bricks, and a {emph}(floodgate) with the barrier statue.
+With your Normal Summon, you can summon Condemned Witch to add Forbidden Droplet. This gives you a {emph}(negate) that gets rid of bricks, and can {emph}(floodgate) with the barrier statue.
 
 ### *Dogmatika Engine*
 
