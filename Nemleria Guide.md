@@ -80,11 +80,12 @@ Realized's goal is to add Dreaming Nemleria to the extra deck, bypassing her tur
 
 The traps are situational, and you will use both at one point or another.
  Repeter's {Dark Ruler No More} like effect can give you a massive advantage, and its {emph}(recycle) effect is good.
-{cards}(Nemleria Louve)
 
 {2colend}
 
 {2col}
+
+{cards}(Nemleria Louve)
 
 ###### Nemleria Louve {emph}(1x)
 
